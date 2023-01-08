@@ -20,7 +20,7 @@
     "chart.js": "^4.1.2",
     "html-react-parser": "^3.0.7",
     "material-ui": "^1.0.0-beta.47",
-    "react": "^18.2.0",
+    "react": "^17.0.0",
     "react-alice-carousel": "^2.7.0",
     "react-chartjs-2": "^3.0.4",
     "react-dom": "^18.2.0",
