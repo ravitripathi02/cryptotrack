@@ -7,7 +7,7 @@ import { SingleCoin } from "../config/api";
 import { CryptoState } from "../CryptoContext";
 import ReactHtmlParser from "html-react-parser";
 import { numberWithCommas } from "../components/CoinsTable";
-import { display } from "@mui/system";
+
 const useStyles = makeStyles((theme) => ({
   container: {
     display: "flex",
