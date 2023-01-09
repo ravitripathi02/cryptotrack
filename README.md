@@ -3,11 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![Homepage](https://user-images.githubusercontent.com/91239605/211264066-f53fe61f-895f-4961-a29e-d807fc0166af.png)
 
+![coin](https://user-images.githubusercontent.com/91239605/211264017-39175a66-cc69-454b-b634-16cd6bce1d23.png)
 
 In the project directory, you can run:
-![Uploading Homepage.png…]()
-![Uploading coin.png…]()
+
 
 
 ### `npm start`
